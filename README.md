@@ -1,0 +1,2 @@
+# example
+ini contoh permulaan
